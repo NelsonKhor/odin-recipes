@@ -1,4 +1,28 @@
-p {
-    background-color: black;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: green;
     color: white;
+    text-align: center;
+}
+
+h3 {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
 }
